@@ -1,1 +1,1 @@
-# variants-of-populism
+# Variants of Populism
