@@ -1,8 +1,8 @@
 ---
 title: "Variants of Populism"
-subtitle: "Support for Populism in 22 European countries"
-author: "Marlon Schumacher, Quynh Nga Nguyen & Fabio Votta"
-date: "2018/06/09 <br> <br> Slides: <a href='variants-of-populism.netlify.com'>https://variants-of-populism.netlify.com/ </a>"
+subtitle: "Support for Populism in 22 European countries <br> <br> <font size='6'>Marlon Schumacher^[], Quynh Nga Nguyen^[] & Fabio Votta^[] <br> <br> 2018-09-06</font>"
+author: "<sup>1</sup> E-Mail: M.C.Schumacher@live.de <br> <sup>2</sup> E-Mail: nga.nguyen@scpobx.fr <br> <sup>3</sup> E-Mail: fabio.votta@gmail.com"
+date: "Slides available at <a href='https://variants-of-populism.netlify.com'>variants-of-populism.netlify.com/ </a>"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -12,6 +12,7 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 ---
+
 
 <style>
 .onehundredtwenty {
@@ -76,8 +77,9 @@ Goal:
 
 class: inverse, center, middle
 
-## Get Started
+<iframe src="https://giphy.com/embed/3o6EQnG9JHIYCjUDny" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wwe-wrestling-hhh-3o6EQnG9JHIYCjUDny"></a></p>
 
+## .. to get started?
 
 ---
 
@@ -141,14 +143,14 @@ class: inverse, center, middle
 
 **CHES Dataset**
 
-Positions of 365 political parties in 40 European countries on european and national policy issues in the timerange between 1999 and 2014.
+Positions of 218 political parties in 22 European countries on european and national policy issues.
 
 --
 
 **Minimalist Definition of Populism**
 
 + *Salience of anti-establishment and anti-elite rhetoric*
-+ *Overall orientation of the party leadership towards European integration*
++ *Euroskepticism (attitudes towards European integration)*
 
 --
 
@@ -178,7 +180,7 @@ class: center, middle
 
 ### Data & Methods
 
-**Merging with ESS (5-8)**
+**Merging with ESS (Round 5-8: 2010-2016)**
 
 Two variables will be used to measure our *dependent variable*:
 
@@ -197,7 +199,7 @@ Support for Establishment/Traditionalist & Progressive Populist Parties
 
 Independent Variables: 
 
-*Economic Insecurity, Unemployment, Welfare, Anti-Immigration Sentiment, Age, Education, Sex,Left-Right Scale, Religiosity, Government Satisfaction, Trust in Global Governance, Rural vs. Urban. Regional dummies (East, West, North and Southern Europe) and temporal dummies (2010, 2012, 2014 and 2016)*
+*Economic Insecurity, Unemployment, Welfare, Anti-Immigration Sentiment, Age, Education, Sex, Left-Right Scale, Religiosity, Government Satisfaction, Trust in Global Governance, Rural vs. Urban, Regional dummies (East, West, North and Southern Europe) and temporal dummies (2010, 2012, 2014 and 2016)*
 
 **Total: 68.403 respondents in 22 countries**
 
@@ -241,7 +243,7 @@ class: inverse, center, middle
 + Our conceptualization seems to be valid
 + Our conceptualization could be checked/validated by others
 + Communist parties may represent special cases with regard to our conceptualization
-+ Multivel and bayesian modeling would be useful as well
++ Multilevel and bayesian modeling would be useful as well
 + Many missing values (include non-aligned in multiomial model?)
 
 ---
@@ -251,9 +253,13 @@ class: inverse, center, middle
 
 ## Thanks for Listening!
 
+Full Paper: <a href='https://www.academia.edu/36656020/Deliberation_Across_the_World_A_Cross-National_Examination_of_the_Link_Between_Deliberation_and_Regime_Legitimacy'>Variants of Populism</a>
+
 Slides: <a href='variants-of-populism.netlify.com'>https://variants-of-populism.netlify.com/ </a>
 
 Code and Data on <a href='https://github.com/favstats/DecodingTheAltRight'>GitHub</a>
+
+![](https://img.memecdn.com/lets-start-a-band_o_726101.gif)
 
 ---
 
@@ -270,3 +276,43 @@ Marwick, A., & Lewis, R. (2017). Media manipulation and disinformation online. N
 class: inverse, center, middle
 
 ## Appendix
+
+---
+
+class: center, middle
+
+<img src="images/estmap.png" height="600">
+
+---
+
+class: center, middle
+
+<img src="images/tradmap.png" height="600">
+
+---
+
+class: center, middle
+
+<img src="images/progmap.png" height="600">
+
+---
+
+class: center, middle
+
+<img src="images/yearplot.png" height="600">
+
+---
+
+class: center, middle
+
+<img src="images/regionalplot.png">
+
+---
+
+class: center, middle
+
+<img src="images/plot2by2.png">
+
+----
+
+
