@@ -50,27 +50,13 @@ output:
 <br>
 <br>
 
-.onehundredtwenty[
+
 
 Goal:
 
-> Distinguish between and investigate different types of populism
+> Conceptualize and measure populism in a way that takes into account the *multidimensionality* of the phenomenon.
 
-]
 
----
-
-## Outline
-
-.onehundredtwenty[
-
-1. Challenges & Shortcomings
-2. Progressive and Traditionalist Populists
-3. Data & Methods
-4. Results
-5. Conclusions & Future Research
-
-]
 
 
 ---
@@ -92,11 +78,103 @@ class: inverse, center, middle
 
 ## Challenges & Shortcomings
 
+<center>
+
+To study the populist phenomenon means...
+
+--
+
+to enter muddy waters.
+
+</center>
+
+--
+
+<br>
+
+**What is *populist* about populism?**
+
+--
+
++ Organization?
+
+--
+
++ Communication?
+
+--
+
++ Ideology?
+
+--
+<br>
+
+*All at once?*
+
+--
+
+<br>
+
+Populism has a *"chameleonic"* character (Taggart 2000)
+
+---
+
+## Challenges & Shortcomings
+
+1st Challenge: The never ending confusion
 
 
+--
 
+<br>
 
+<center>
 
+Populists are... 
+
+--
+
+right-wing. 
+
+</center>
+
+--
+
+<br>
+
+<center>
+
+... right?
+
+</center>
+
+--
+
+<br>
+
+<center>
+
+<img src="images/parties/bannerforpopulist.png" height="200">
+
+</center>
+
+---
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+> *Cas Mudde has been influential in the literature, suggesting that populist philosophy is a loose set of ideas that share three core features: anti-establishment, authoritarianism, and nativism.* ~ Inglehart & Norris (2016)
+
+--
+
+<br>
+
+Mudde, C. (2007). Populist **radical right parties** in Europe (Vol. 22, No. 8). Cambridge: Cambridge University Press.
 
 ---
 
@@ -106,7 +184,31 @@ class: inverse, center, middle
 
 ---
 
-## The Problem with Definitions
+## Challenges & Shortcomings
+
+
+Populism as a *thin centered ideology* (Mudde & Kaltwasser 2017):
+
+--
+
++ Two groups: *"pure people"* vs. *"corrupt elites"*
+
+--
+
++ Politics should express *"volonté générale"* 
+
+--
+
+<br>
+
+
+**But who are *the people*?**
+
+--
+
+2nd Challenge: The variants of populism 
+
+--
 
 
 <center>
@@ -121,12 +223,12 @@ Liberal/Illiberal?
 <br>
 <br>
 
-Inclusionary/Exclusionary
+Inclusionary/Exclusionary?
 
 <br>
 <br>
 
-Progressive and Traditionalist?
+... Progressive/Traditionalist.
 
 </center>
 
@@ -205,13 +307,6 @@ Independent Variables:
 
 ---
 
-class: center, middle
-
-<img src="images/estmap.png" height="600">
-
-
----
-
 class: inverse, center, middle
 
 ## Results
@@ -240,11 +335,16 @@ class: inverse, center, middle
 
 ## Conclusions
 
-+ Our conceptualization seems to be valid
-+ Our conceptualization could be checked/validated by others
-+ Communist parties may represent special cases with regard to our conceptualization
-+ Multilevel and bayesian modeling would be useful as well
++ Results of Inglehart & Norris 2016 could mostly be reproduced
+
++ Conceptualization/Classification seems to be appropriate
+    + should be checked/validated by others in the future
+    + Eastern European Communist parties may represent special cases
+    
 + Many missing values (include non-aligned in multiomial model?)
+
++ Future research should take the variants of populism into account
+    + specifically avoid conflating right-wing populism with populism
 
 ---
 
@@ -253,11 +353,11 @@ class: inverse, center, middle
 
 ## Thanks for Listening!
 
-Full Paper: <a href='https://www.academia.edu/36656020/Deliberation_Across_the_World_A_Cross-National_Examination_of_the_Link_Between_Deliberation_and_Regime_Legitimacy'>Variants of Populism</a>
+<!-- Full Paper: <a href='https://www.academia.edu/36656020/Deliberation_Across_the_World_A_Cross-National_Examination_of_the_Link_Between_Deliberation_and_Regime_Legitimacy'>Variants of Populism</a> -->
 
 Slides: <a href='variants-of-populism.netlify.com'>https://variants-of-populism.netlify.com/ </a>
 
-Code and Data on <a href='https://github.com/favstats/DecodingTheAltRight'>GitHub</a>
+Code and Data on <a href='https://github.com/favstats/rise-of-populism'>GitHub</a>
 
 ![](https://img.memecdn.com/lets-start-a-band_o_726101.gif)
 
@@ -265,11 +365,11 @@ Code and Data on <a href='https://github.com/favstats/DecodingTheAltRight'>GitHu
 
 ## References
 
-Hawley, G. (2017). Making Sense of the Alt-right. Columbia University Press.
+*Inglehart, R., & Norris, P. (2016). Trump, brexit, and the rise of populism: Economic have-notsand cultural backlash*
 
-Marwick, A., & Lewis, R. (2017). Media manipulation and disinformation online. New York: Data & Society Research Institute.
+*Mudde, C., & Kaltwasser, C. R. (2017).Populism: A very short introduction. Oxford UniversityPress*
 
-
+*Taggart, P. (2000). Populism. buckingham pa. Open University Press*
 
 ---
 
