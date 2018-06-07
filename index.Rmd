@@ -63,59 +63,15 @@ Goal:
 
 class: inverse, center, middle
 
-<iframe src="https://giphy.com/embed/3o6EQnG9JHIYCjUDny" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wwe-wrestling-hhh-3o6EQnG9JHIYCjUDny"></a></p>
+<!-- <iframe src="https://giphy.com/embed/3o6EQnG9JHIYCjUDny" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wwe-wrestling-hhh-3o6EQnG9JHIYCjUDny"></a></p> -->
 
-## .. to get started?
+## Get started
 
 ---
 
 class: inverse, center, middle
 
 ## Challenges & Shortcomings
-
----
-
-
-## Challenges & Shortcomings
-
-<center>
-
-To study the populist phenomenon means...
-
---
-
-to enter muddy waters.
-
-</center>
-
---
-
-<br>
-
-**What is *populist* about populism?**
-
---
-
-+ Organization?
-
---
-
-+ Communication?
-
---
-
-+ Ideology?
-
---
-<br>
-
-*All at once?*
-
---
-
-<br>
-
-=> Populism has a *"chameleonic"* character (Taggart 2000)
 
 ---
 
@@ -168,7 +124,7 @@ right-wing.
 <br>
 <br>
 
-> *Cas Mudde has been influential in the literature, suggesting that populist philosophy is a loose set of ideas that share three core features: anti-establishment, authoritarianism, and nativism.* 
+> *Cas Mudde has been influential in the literature, suggesting that populist philosophy is a loose set of ideas that share three core features: **anti-establishment**, **authoritarianism**, and **nativism**.* 
 
 --
 
@@ -188,6 +144,50 @@ Mudde, C. (2007). Populist **radical right parties** in Europe (Vol. 22, No. 8).
 
 <img src="images/populist_scatter.png">
 
+
+---
+
+
+## Challenges & Shortcomings
+
+<center>
+
+To study the populist phenomenon means...
+
+--
+
+to enter muddy waters.
+
+</center>
+
+--
+
+<br>
+
+**What is *populist* about populism?**
+
+--
+
++ Organization?
+
+--
+
++ Communication?
+
+--
+
++ Ideology?
+
+--
+<br>
+
+*All at once?*
+
+--
+
+<br>
+
+=> Populism has a *"chameleonic"* character (Taggart 2000)
 
 ---
 
@@ -345,11 +345,17 @@ class: inverse, center, middle
 
 + Results of Inglehart & Norris 2016 could mostly be reproduced
 
+--
+
 + Conceptualization/Classification seems to be appropriate
     + should be checked/validated by others in the future
     + Eastern European Communist parties may represent special cases
-    
-+ Many missing values (include non-aligned in multinomial model?)
+  
+--
+
++ Many missing values (include non-aligned/abstainees category?)
+
+--
 
 + Future research should take the *multidimensionality* of populism into account
     + specifically avoid conflating right-wing populism with populism
