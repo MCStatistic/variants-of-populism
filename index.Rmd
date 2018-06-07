@@ -115,7 +115,7 @@ to enter muddy waters.
 
 <br>
 
-Populism has a *"chameleonic"* character (Taggart 2000)
+=> Populism has a *"chameleonic"* character (Taggart 2000)
 
 ---
 
@@ -168,11 +168,18 @@ right-wing.
 <br>
 <br>
 
-> *Cas Mudde has been influential in the literature, suggesting that populist philosophy is a loose set of ideas that share three core features: anti-establishment, authoritarianism, and nativism.* ~ Inglehart & Norris (2016)
+> *Cas Mudde has been influential in the literature, suggesting that populist philosophy is a loose set of ideas that share three core features: anti-establishment, authoritarianism, and nativism.* 
 
 --
 
-<br>
+<center>
+
+Inglehart & Norris (2016)
+
+<center/>
+
+--
+
 
 Mudde, C. (2007). Populist **radical right parties** in Europe (Vol. 22, No. 8). Cambridge: Cambridge University Press.
 
@@ -211,26 +218,27 @@ Populism as a *thin centered ideology* (Mudde & Kaltwasser 2017):
 --
 
 
-<center>
+.center[
 
 Left/Right?
 
-<br>
-<br>
+]
+
+--
+
+.center[
 
 Liberal/Illiberal?
 
-<br>
-<br>
+]
 
-Inclusionary/Exclusionary?
+--
 
-<br>
-<br>
+.center[
 
 ... Progressive/Traditionalist.
 
-</center>
+]
 
 ---
 
@@ -341,9 +349,9 @@ class: inverse, center, middle
     + should be checked/validated by others in the future
     + Eastern European Communist parties may represent special cases
     
-+ Many missing values (include non-aligned in multiomial model?)
++ Many missing values (include non-aligned in multinomial model?)
 
-+ Future research should take the variants of populism into account
++ Future research should take the *multidimensionality* of populism into account
     + specifically avoid conflating right-wing populism with populism
 
 ---
