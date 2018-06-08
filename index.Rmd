@@ -338,8 +338,9 @@ class: inverse, center, middle
 --
 
 + Conceptualization/Classification seems to be appropriate
-    + should be checked/validated by others in the future
-    + Eastern European Communist parties may represent special cases
+    + should be checked/validated by others in the future (too broad?)
+    + correlation with other measures
+    + some communist parties may represent special cases
   
 --
 
@@ -348,7 +349,7 @@ class: inverse, center, middle
 --
 
 + Future research should take the *multidimensionality* of populism into account
-    + specifically avoid conflating right-wing populism with populism
+    + specifically avoid conflating right-wing populism with populism in general
 
 ---
 
