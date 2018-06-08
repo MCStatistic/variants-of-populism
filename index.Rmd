@@ -1,6 +1,6 @@
 ---
 title: "Variants of Populism"
-subtitle: "Support for Populism in 22 European countries <br> <br> <font size='6'>Marlon Schumacher^[], Quynh Nga Nguyen^[] & Fabio Votta^[] <br> <br> 2018-09-06</font>"
+subtitle: "Support for Populism in 22 European countries <br> <br> <font size='6'>Marlon Schumacher^[], Quynh Nga Nguyen^[] & Fabio Votta^[] <br> <br> 08-06-2018</font>"
 author: "<sup>1</sup> E-Mail: M.C.Schumacher@live.de <br> <sup>2</sup> E-Mail: nga.nguyen@scpobx.fr <br> <sup>3</sup> E-Mail: fabio.votta@gmail.com"
 date: "Slides available at <a href='https://variants-of-populism.netlify.com'>variants-of-populism.netlify.com/ </a>"
 output:
@@ -56,16 +56,6 @@ Goal:
 
 > Conceptualize and measure populism in a way that takes into account the *multidimensionality* of the phenomenon.
 
-
-
-
----
-
-class: inverse, center, middle
-
-<!-- <iframe src="https://giphy.com/embed/3o6EQnG9JHIYCjUDny" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wwe-wrestling-hhh-3o6EQnG9JHIYCjUDny"></a></p> -->
-
-## Get started
 
 ---
 
@@ -305,7 +295,7 @@ Support for Establishment/Traditionalist & Progressive Populist Parties
 
 --
 
-**Multinomial Regression:**
+**Bayesian Multinomial Regression:**
 
 Independent Variables: 
 
